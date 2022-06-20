@@ -1,0 +1,2 @@
+6/20/2022:
+- Part 1: https://docs.djangoproject.com/en/4.0/intro/tutorial01/
